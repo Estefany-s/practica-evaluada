@@ -1,0 +1,19 @@
+.container {
+  width: 50%;
+  background-color: #ccc;
+  border-radius: 4px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 10px;
+  box-shadow: 11px 13px 3px #918e8e;
+}
+
+.title {
+  color: blue;
+  font-weight: bold;
+}
+
+.negrita {
+  color: #000;
+  font-weight: bold;
+}
